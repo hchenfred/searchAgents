@@ -8,7 +8,7 @@
     "server-dev": "nodemon server/index.js",
     "start": "node server/index.js"
   },
-  "author": "Huan Chen",
+  "author": "Huan  Chen",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.23.1",

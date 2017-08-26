@@ -8,3 +8,5 @@
   * run 'npm run server-dev'
   * open you browser and type in "localhost:3000" 
 
+## Deployment
+It is deployed on Heroku https://agents-austin.herokuapp.com/
